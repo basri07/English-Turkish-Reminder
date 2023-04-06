@@ -9,7 +9,7 @@
 
 -Tkinder kütüphanesi ile pop-up oluşturuldu. Win10toaster kütüphanesi ile oluşan gerçek bildirimler zaman zaman ekrana düşmemekte.
 
--Bu dosyayı "exe" dosyası olarak kaydediyorum
+-PyInstaller kütüphanesini kurduktan sonra bu dosyayı "exe" dosyası olarak kaydediyorum
 
 -Daha sonra windowsda görev zamanlayıcı olarak bu exe dosyasını bilgisayarımı her çalıştırdığımda otomatik olarak başlaması için görev oluşturuyorum
 
