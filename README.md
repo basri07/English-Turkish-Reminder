@@ -5,7 +5,7 @@
 
 -Daha sonra kaydettiğim kelimeleri excel dosyası olarak indiriyorum.
 
--Python kodları sayesinde 3 dakika da bir içinden rastgele kelime seçip sağ altta bildirim olarak gösteriyor. 
+-Python kodları sayesinde 3-5 vb dakika da bir içinden rastgele kelime seçip sağ altta bildirim olarak gösteriyor. 
 
 -Tkinder kütüphanesi ile pop-up oluşturuldu. Win10toaster kütüphanesi ile oluşan gerçek bildirimler zaman zaman ekrana düşmemekte.
 
